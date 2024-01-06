@@ -97,7 +97,6 @@ six==1.16.0
 tensorboard
 tensorboard-data-server
 tensorflow
-tensorflow-gpu 
 tensorflow-estimator
 tensorflow-intel
 tensorflow-io-gcs-filesystem
